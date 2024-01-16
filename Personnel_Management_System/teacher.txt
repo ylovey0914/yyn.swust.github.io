@@ -1,0 +1,18 @@
+
+————————————
+teacher information:
+num:1
+name:鲜老师
+sex:男
+age:50
+rank:高数
+depart:理学院
+
+————————————
+teacher information:
+num:3
+name:袁雨宁
+sex:男
+age:7
+rank:学生
+depart:牛逼
